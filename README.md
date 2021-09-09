@@ -18,7 +18,7 @@ I love the feeling of how my work connected with users, so I decided to dedicate
 After graduate with my bachelor's degree in computer science, I decided to gain a Master's degree in computer science, because I believe that a master's degree brings more opportunities and makes me a better frontend software developer.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="340" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="320" />
   
 - 👨‍💻 Any Referral? [Resume](https://user-images.githubusercontent.com/37787994/132630829-066dc152-0a9e-4cb2-8ff1-7760e88a5933.png) 
 - 💬 Chat with me
