@@ -19,10 +19,9 @@ Most software developers dreamed of being a qualified Full Stack developer, me a
 I love the feeling of how my work connected with users, so I decided to dedicate myself to the Front-end field. Besides, having the necessary backend skills guarantee to perform better interaction with users and cooperation with other developers.  
 
 After graduate with my bachelor's degree in computer science, I decided to gain a Master's degree in computer science, because I believe that a master's degree brings more opportunities and makes me a better frontend software developer.
+   
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/37787994/132736489-1d84d192-bd58-4d03-811a-7761cf4d16d7.gif" width="380" height="360"/>
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="320" />
-  
 - 👨‍💻 Any Referral? [Resume](https://user-images.githubusercontent.com/37787994/132630829-066dc152-0a9e-4cb2-8ff1-7760e88a5933.png) 
 - 💬 Chat with me
 
@@ -39,13 +38,7 @@ After graduate with my bachelor's degree in computer science, I decided to gain 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-Data Structure    7 hrs 12 mins   ██████████████████░░░░░░░   72.35 % 
-JavaScript        2 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-```
-<!--END_SECTION:waka-->
+
 
 
 🚧 **my todoist stats:**
