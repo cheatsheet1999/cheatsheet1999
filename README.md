@@ -9,7 +9,7 @@
 
 <br />
 
-Hi, I'm [Yuelin Zhao](https://www.linkedin.com/in/csyuelin/),
+I'm [Yuelin Zhao](https://www.linkedin.com/in/csyuelin/),
 * A Full Stack Software Engineer (emphasize on Front-end) 
 * Pursing Master of Computer Science Degree at ASU 
 * Experienced in JavaScript, TypeScript, React, GraphQL Node.js, SQL/NOSQL.
