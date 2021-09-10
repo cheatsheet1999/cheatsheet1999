@@ -43,7 +43,7 @@ After graduate with my bachelor's degree in computer science, I decided to gain 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cheatsheet1999&show_icons=true&theme=gotham" alt="yuelin" /> -->
 
   <a href="https://github.com/cheatsheet1999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cheatsheet1999&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="cheatsheet1999's github stats" /></a> 
-  <a href="https://github.com/cheatsheet1999/github-readme-stats"><img width='490' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheatsheet1999&layout=compact&theme=gotham&hide_border=true" /></a> 
+  <a href="https://github.com/cheatsheet1999/github-readme-stats"><img width='496' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheatsheet1999&layout=compact&theme=gotham&hide_border=true" /></a> 
 
  
 ### Most started repository ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
