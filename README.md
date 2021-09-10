@@ -36,14 +36,14 @@ After graduate with my bachelor's degree in computer science, I decided to gain 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/37787994/132808661-c4081586-5bde-4d5e-a343-91f6570b4d87.gif" width="440" height="700"/> 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/37787994/132808661-c4081586-5bde-4d5e-a343-91f6570b4d87.gif" width="350" height="700"/> 
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheatsheet1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cheatsheet1999&show_icons=true&theme=gotham" alt="yuelin" /> -->
 
   <a href="https://github.com/cheatsheet1999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cheatsheet1999&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="cheatsheet1999's github stats" /></a> 
-  <a href="https://github.com/cheatsheet1999/github-readme-stats"><img width='51.2%' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheatsheet1999&layout=compact&theme=gotham&hide_border=true" /></a> 
+  <a href="https://github.com/cheatsheet1999/github-readme-stats"><img width='500' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheatsheet1999&layout=compact&theme=gotham&hide_border=true" /></a> 
 
  
 ### Most started repository ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
