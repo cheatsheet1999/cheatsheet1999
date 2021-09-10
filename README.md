@@ -20,12 +20,8 @@ I love the feeling of how my work connected with users, so I decided to dedicate
 
 After graduate with my bachelor's degree in computer science, I decided to gain a Master's degree in computer science, because I believe that a master's degree brings more opportunities and makes me a better frontend software developer.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/37787994/132736489-1d84d192-bd58-4d03-811a-7761cf4d16d7.gif" width="180" height="160"/>
-
 - 👨‍💻 Any Referral? [Resume](https://user-images.githubusercontent.com/37787994/132630829-066dc152-0a9e-4cb2-8ff1-7760e88a5933.png) 
 - 💬 Chat with me
-
-
 
 **languages and tools:**  
 
@@ -40,14 +36,19 @@ After graduate with my bachelor's degree in computer science, I decided to gain 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/37787994/132808661-c4081586-5bde-4d5e-a343-91f6570b4d87.gif" width="440" height="700"/> 
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheatsheet1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cheatsheet1999&show_icons=true&theme=gotham" alt="yuelin" /> -->
 
-| <a href="https://github.com/cheatsheet1999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cheatsheet1999&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="cheatsheet1999's github stats" /></a> | <a href="https://github.com/cheatsheet1999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheatsheet1999&layout=compact&theme=graywhite&hide_border=true" /></a> |
-| ------------- | ------------- |
-  
+  <a href="https://github.com/cheatsheet1999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cheatsheet1999&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="cheatsheet1999's github stats" /></a> 
+  <a href="https://github.com/cheatsheet1999/github-readme-stats"><img width='51.2%' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheatsheet1999&layout=compact&theme=gotham&hide_border=true" /></a> 
+
+ 
+### Most started repository ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
 <p align="left">
-<a href="https://github.com/cheatsheet1999/FrontEndCollection"><img width="500" height="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheatsheet1999&repo=FrontEndCollection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="FrontEndCollection"></a>
+<a href="https://github.com/cheatsheet1999/FrontEndCollection"><img width="500" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheatsheet1999&repo=FrontEndCollection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="FrontEndCollection"></a>
   
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="cheatsheet1999's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cheatsheet1999&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
