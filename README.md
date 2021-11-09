@@ -10,7 +10,7 @@
 <br />
 
 I'm [Yuelin Zhao](https://www.linkedin.com/in/csyuelin/),
-* A Full Stack Software Engineer (emphasize on Front-end / UIUX) 
+* A Full Stack Software Engineer (emphasize on Front-end / UI-UX) 
 * Pursing Master of Computer Science Degree at Arizona State University  
 * Experienced in JavaScript, TypeScript, React, GraphQL Node.js, SQL/NOSQL.
 
