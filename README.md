@@ -2,10 +2,11 @@
 
 <a href="https://www.linkedin.com/in/csyuelin/">
   <img align="left" alt="Yuelin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a>      
 
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuelin.visitor-badge) -->
+</br>      
 
 I'm [Yuelin Zhao](https://www.linkedin.com/in/csyuelin/),
 * A Full Stack Software Engineer (emphasize on Front-end / UI-UX) 
