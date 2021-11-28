@@ -5,7 +5,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=yuelin.visitor-badge)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuelin.visitor-badge) -->
 
 <br />
 
