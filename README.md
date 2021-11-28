@@ -7,8 +7,6 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuelin.visitor-badge) -->
 
-<br />
-
 I'm [Yuelin Zhao](https://www.linkedin.com/in/csyuelin/),
 * A Full Stack Software Engineer (emphasize on Front-end / UI-UX) 
 * Pursing Master of Computer Science Degree at Arizona State University  
