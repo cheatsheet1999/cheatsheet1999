@@ -47,14 +47,13 @@ After graduate with my bachelor's degree in computer science, I decided to gain 
   <a href="https://github.com/cheatsheet1999/github-readme-stats"><img width='496' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheatsheet1999&layout=compact&theme=gotham&hide_border=true" /></a> 
 
  
-### Most started repository ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+### Most started repository ⭐️
 <p align="left">
 <a href="https://github.com/cheatsheet1999/FrontEndCollection"><img width="500" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheatsheet1999&repo=FrontEndCollection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="FrontEndCollection"></a>
   
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="cheatsheet1999's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cheatsheet1999&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
   
-  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cheatsheet1999&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
 
