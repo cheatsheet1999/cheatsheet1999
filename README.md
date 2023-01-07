@@ -53,7 +53,7 @@ After graduate with my bachelor's degree in computer science, I decided to gain 
   
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cheatsheet1999&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Cheatsheet's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cheatsheet1999&theme=react)
   
   
 
