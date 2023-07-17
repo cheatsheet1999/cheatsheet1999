@@ -2,12 +2,12 @@
 
 <a href="https://www.linkedin.com/in/csyuelin/">
 <!--   <img align="left" alt="Yuelin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
-   <img align="left" alt="Yuelin's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
-</a>      
+   <img align="left" alt="Yuelin's LinkedIn" width="160px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" />    
+</a>        
 
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuelin.visitor-badge) -->
-</br>      
+</br>       
 
 I'm [Yuelin Zhao](https://www.linkedin.com/in/csyuelin/),
 * A Full Stack Software Engineer (emphasize on Front-end / UI-UX) 
