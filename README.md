@@ -20,7 +20,6 @@ I love the feeling of how my work connected with users, so I decided to dedicate
 
 After graduate with my bachelor's degree in computer science, I decided to gain a Master's degree in computer science, because I believe that a master's degree brings more opportunities and makes me a better frontend software developer.
 
-- 👨‍💻 Any Referral? [Resume](https://docs.google.com/document/d/15uJkvlJyQlMEASJfxygKfEqeupAfNQ5B7A9k1m3wsL8/edit?usp=sharing)   
 - 💬 Chat with me csyuelin@gmail.com
 
 **languages and tools:**  
