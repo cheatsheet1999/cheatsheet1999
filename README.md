@@ -14,11 +14,8 @@ I'm [Yuelin Zhao](https://www.linkedin.com/in/csyuelin/),
 * BS & MS of Computer Science Degree at Arizona State University  
 * Experienced in Python, Java, C#, JavaScript, TypeScript, React, GraphQL Node.js, SQL/NOSQL.
 
-Most software developers dreamed of being a qualified Full Stack developer, me as well.  
+Software Engineer (Web Frameworks, API development, DBMS, Cloud Services)
 
-I love the feeling of how my work connected with users, so I decided to dedicate myself to the Front-end field. Besides, having the necessary backend skills guarantee to perform better interaction with users and cooperation with other developers.  
-
-After graduate with my bachelor's degree in computer science, I decided to gain a Master's degree in computer science, because I believe that a master's degree brings more opportunities and makes me a better frontend software developer.
 
 - 💬 Chat with me csyuelin@gmail.com
 
