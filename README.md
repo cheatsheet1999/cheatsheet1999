@@ -10,9 +10,9 @@
 </br>       
 
 I'm [Yuelin Zhao](https://www.linkedin.com/in/csyuelin/),
-* A Full Stack Software Engineer 
+* A Software Engineer on distributed systems and cloud infrastructures
 * BS & MS of Computer Science Degree at Arizona State University  
-* Experienced in Python, Java, C#, JavaScript, TypeScript, React, GraphQL Node.js, SQL/NOSQL.
+* Experienced in  C#, C++, TypeScript and Python.
 
 Software Engineer (Web Frameworks, API development, DBMS, Cloud Services)
 
