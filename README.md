@@ -1,26 +1,22 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/csyuelin/">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Yuelin%20!&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+
 <!--   <img align="left" alt="Yuelin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
-   <img align="left" alt="Yuelin's LinkedIn" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" />    
-</a>        
+      
 
-
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=700&lines=Software+Engineer+(Infrastructure);Distributed+Systems+%26+Cloud+Infrastructure;Building+Scalable+Storage+%26+Network+%26+Compute+%F0%9F%92%A1" alt="Typing SVG" />
+  </a>
+  
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuelin.visitor-badge) -->
 </br>       
 
-I'm [Yuelin](https://www.linkedin.com/in/csyuelin/),
-* A Software Engineer on distributed systems and cloud infrastructures
-* BS & MS of Computer Science Degree at Arizona State University  
-* Experienced in  C#, C++.
-
-Software Engineer in cloud infrastructure and distributed storage
 
 
-- 💬 Chat with me csyuelin@gmail.com
 
-**languages and tools:**  
-
+### 💻 Programming Languages & tOOLS
+![Java](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -37,7 +33,8 @@ Software Engineer in cloud infrastructure and distributed storage
 <p align="left">
 <a href="https://github.com/cheatsheet1999/CloudCollection"><img width="500" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cheatsheet1999&repo=FrontEndCollection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="FrontEndCollection"></a>
   
-  
+   
+💬 Chat with me: https://www.linkedin.com/in/csyuelin/
   
 
 
